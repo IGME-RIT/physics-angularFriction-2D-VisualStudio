@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level10\physics-angularfriction-2d-mastervs2019\angularfriction2d\main.cpp(465): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\level10\physics-angularfriction-2d-mastervs2019\angularfriction2d\main.cpp(498): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\profiles\njp2424\desktop\physics\level10\physics-angularfriction-2d-mastervs2019\angularfriction2d\main.cpp(513): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AngularFriction2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level10\physics-angularFriction-2D-masterVS2019\AngularFriction2D\Debug\AngularFriction2D.exe
